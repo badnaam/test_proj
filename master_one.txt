@@ -1,4 +1,6 @@
 another windows change
+Another changes from linux
+linux made changes to feature_one
 windows made changes to feature one
 changed made in feature_one
 master one
